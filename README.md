@@ -37,10 +37,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Discord_logo.svg" alt="Discord" width="20" height="20"/> Discord
+    <img src="https://banner2.cleanpng.com/20181110/su/kisspng-discord-social-media-portable-network-graphics-cli-1713924150656.webp" alt="Discord" width="20" height="20"/> Discord
   </a>
 </p>
 <br>
-<p align="left"> <img src="https://banner2.cleanpng.com/20181110/su/kisspng-discord-social-media-portable-network-graphics-cli-1713924150656.webp" alt="andrew051213" /> </p>
 
 ------
