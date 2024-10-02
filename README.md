@@ -37,7 +37,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://discord.com/" target="_blank">
-    <img src="https://banner2.cleanpng.com/20181110/su/kisspng-discord-social-media-portable-network-graphics-cli-1713924150656.webp" alt="Discord" width="20" height="20"/> Discord
+    <img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="Discord" width="20" height="20"/> Discord
   </a>
 </p>
 <br>
